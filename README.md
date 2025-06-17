@@ -1,0 +1,1 @@
+🔐 Developed a Password Complexity Checker using Python! It evaluates password strength based on length, uppercase & lowercase letters, digits, and special characters. Gives real-time feedback to help improve weak passwords. A simple tool for learning Python and understanding basic cybersecurity.
